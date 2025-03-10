@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lib_App_2025\Lib_App_2025\bin\Debug\net8.0\Lib_App_2025.exe
+C:\Users\User\source\repos\Lib_App_2025\Lib_App_2025\bin\Debug\net8.0\Lib_App_2025.deps.json
+C:\Users\User\source\repos\Lib_App_2025\Lib_App_2025\bin\Debug\net8.0\Lib_App_2025.runtimeconfig.json
+C:\Users\User\source\repos\Lib_App_2025\Lib_App_2025\bin\Debug\net8.0\Lib_App_2025.dll
+C:\Users\User\source\repos\Lib_App_2025\Lib_App_2025\bin\Debug\net8.0\Lib_App_2025.pdb
+C:\Users\User\source\repos\Lib_App_2025\Lib_App_2025\obj\Debug\net8.0\Lib_App_2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lib_App_2025\Lib_App_2025\obj\Debug\net8.0\Lib_App_2025.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lib_App_2025\Lib_App_2025\obj\Debug\net8.0\Lib_App_2025.AssemblyInfo.cs
+C:\Users\User\source\repos\Lib_App_2025\Lib_App_2025\obj\Debug\net8.0\Lib_App_2025.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lib_App_2025\Lib_App_2025\obj\Debug\net8.0\Lib_App_2025.dll
+C:\Users\User\source\repos\Lib_App_2025\Lib_App_2025\obj\Debug\net8.0\refint\Lib_App_2025.dll
+C:\Users\User\source\repos\Lib_App_2025\Lib_App_2025\obj\Debug\net8.0\Lib_App_2025.pdb
+C:\Users\User\source\repos\Lib_App_2025\Lib_App_2025\obj\Debug\net8.0\Lib_App_2025.genruntimeconfig.cache
+C:\Users\User\source\repos\Lib_App_2025\Lib_App_2025\obj\Debug\net8.0\ref\Lib_App_2025.dll

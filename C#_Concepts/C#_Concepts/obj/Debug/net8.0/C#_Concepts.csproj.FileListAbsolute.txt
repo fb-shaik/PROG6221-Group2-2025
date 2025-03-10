@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\C#_Concepts\C#_Concepts\bin\Debug\net8.0\C#_Concepts.exe
+C:\Users\User\source\repos\C#_Concepts\C#_Concepts\bin\Debug\net8.0\C#_Concepts.deps.json
+C:\Users\User\source\repos\C#_Concepts\C#_Concepts\bin\Debug\net8.0\C#_Concepts.runtimeconfig.json
+C:\Users\User\source\repos\C#_Concepts\C#_Concepts\bin\Debug\net8.0\C#_Concepts.dll
+C:\Users\User\source\repos\C#_Concepts\C#_Concepts\bin\Debug\net8.0\C#_Concepts.pdb
+C:\Users\User\source\repos\C#_Concepts\C#_Concepts\obj\Debug\net8.0\C#_Concepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Concepts\C#_Concepts\obj\Debug\net8.0\C#_Concepts.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Concepts\C#_Concepts\obj\Debug\net8.0\C#_Concepts.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Concepts\C#_Concepts\obj\Debug\net8.0\C#_Concepts.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Concepts\C#_Concepts\obj\Debug\net8.0\C#_Concepts.dll
+C:\Users\User\source\repos\C#_Concepts\C#_Concepts\obj\Debug\net8.0\refint\C#_Concepts.dll
+C:\Users\User\source\repos\C#_Concepts\C#_Concepts\obj\Debug\net8.0\C#_Concepts.pdb
+C:\Users\User\source\repos\C#_Concepts\C#_Concepts\obj\Debug\net8.0\C#_Concepts.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Concepts\C#_Concepts\obj\Debug\net8.0\ref\C#_Concepts.dll
