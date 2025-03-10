@@ -1,0 +1,14 @@
+C:\Users\fshai\source\repos\C#_Basics_App\bin\Debug\net8.0\C#_Basics_App.exe
+C:\Users\fshai\source\repos\C#_Basics_App\bin\Debug\net8.0\C#_Basics_App.deps.json
+C:\Users\fshai\source\repos\C#_Basics_App\bin\Debug\net8.0\C#_Basics_App.runtimeconfig.json
+C:\Users\fshai\source\repos\C#_Basics_App\bin\Debug\net8.0\C#_Basics_App.dll
+C:\Users\fshai\source\repos\C#_Basics_App\bin\Debug\net8.0\C#_Basics_App.pdb
+C:\Users\fshai\source\repos\C#_Basics_App\obj\Debug\net8.0\C#_Basics_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fshai\source\repos\C#_Basics_App\obj\Debug\net8.0\C#_Basics_App.AssemblyInfoInputs.cache
+C:\Users\fshai\source\repos\C#_Basics_App\obj\Debug\net8.0\C#_Basics_App.AssemblyInfo.cs
+C:\Users\fshai\source\repos\C#_Basics_App\obj\Debug\net8.0\C#_Basics_App.csproj.CoreCompileInputs.cache
+C:\Users\fshai\source\repos\C#_Basics_App\obj\Debug\net8.0\C#_Basics_App.dll
+C:\Users\fshai\source\repos\C#_Basics_App\obj\Debug\net8.0\refint\C#_Basics_App.dll
+C:\Users\fshai\source\repos\C#_Basics_App\obj\Debug\net8.0\C#_Basics_App.pdb
+C:\Users\fshai\source\repos\C#_Basics_App\obj\Debug\net8.0\C#_Basics_App.genruntimeconfig.cache
+C:\Users\fshai\source\repos\C#_Basics_App\obj\Debug\net8.0\ref\C#_Basics_App.dll

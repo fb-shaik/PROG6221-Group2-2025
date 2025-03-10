@@ -1,0 +1,15 @@
+C:\Users\fshai\source\repos\Class_Objects_App\bin\Debug\net5.0\Class_Objects_App.exe
+C:\Users\fshai\source\repos\Class_Objects_App\bin\Debug\net5.0\Class_Objects_App.deps.json
+C:\Users\fshai\source\repos\Class_Objects_App\bin\Debug\net5.0\Class_Objects_App.runtimeconfig.json
+C:\Users\fshai\source\repos\Class_Objects_App\bin\Debug\net5.0\Class_Objects_App.runtimeconfig.dev.json
+C:\Users\fshai\source\repos\Class_Objects_App\bin\Debug\net5.0\Class_Objects_App.dll
+C:\Users\fshai\source\repos\Class_Objects_App\bin\Debug\net5.0\Class_Objects_App.pdb
+C:\Users\fshai\source\repos\Class_Objects_App\obj\Debug\net5.0\Class_Objects_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fshai\source\repos\Class_Objects_App\obj\Debug\net5.0\Class_Objects_App.AssemblyInfoInputs.cache
+C:\Users\fshai\source\repos\Class_Objects_App\obj\Debug\net5.0\Class_Objects_App.AssemblyInfo.cs
+C:\Users\fshai\source\repos\Class_Objects_App\obj\Debug\net5.0\Class_Objects_App.csproj.CoreCompileInputs.cache
+C:\Users\fshai\source\repos\Class_Objects_App\obj\Debug\net5.0\Class_Objects_App.dll
+C:\Users\fshai\source\repos\Class_Objects_App\obj\Debug\net5.0\refint\Class_Objects_App.dll
+C:\Users\fshai\source\repos\Class_Objects_App\obj\Debug\net5.0\Class_Objects_App.pdb
+C:\Users\fshai\source\repos\Class_Objects_App\obj\Debug\net5.0\Class_Objects_App.genruntimeconfig.cache
+C:\Users\fshai\source\repos\Class_Objects_App\obj\Debug\net5.0\ref\Class_Objects_App.dll
