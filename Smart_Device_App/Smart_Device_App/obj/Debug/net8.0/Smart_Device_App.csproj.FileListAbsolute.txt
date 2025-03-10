@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Smart_Device_App\Smart_Device_App\bin\Debug\net8.0\Smart_Device_App.exe
+C:\Users\User\source\repos\Smart_Device_App\Smart_Device_App\bin\Debug\net8.0\Smart_Device_App.deps.json
+C:\Users\User\source\repos\Smart_Device_App\Smart_Device_App\bin\Debug\net8.0\Smart_Device_App.runtimeconfig.json
+C:\Users\User\source\repos\Smart_Device_App\Smart_Device_App\bin\Debug\net8.0\Smart_Device_App.dll
+C:\Users\User\source\repos\Smart_Device_App\Smart_Device_App\bin\Debug\net8.0\Smart_Device_App.pdb
+C:\Users\User\source\repos\Smart_Device_App\Smart_Device_App\obj\Debug\net8.0\Smart_Device_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Smart_Device_App\Smart_Device_App\obj\Debug\net8.0\Smart_Device_App.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Smart_Device_App\Smart_Device_App\obj\Debug\net8.0\Smart_Device_App.AssemblyInfo.cs
+C:\Users\User\source\repos\Smart_Device_App\Smart_Device_App\obj\Debug\net8.0\Smart_Device_App.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Smart_Device_App\Smart_Device_App\obj\Debug\net8.0\Smart_Device_App.dll
+C:\Users\User\source\repos\Smart_Device_App\Smart_Device_App\obj\Debug\net8.0\refint\Smart_Device_App.dll
+C:\Users\User\source\repos\Smart_Device_App\Smart_Device_App\obj\Debug\net8.0\Smart_Device_App.pdb
+C:\Users\User\source\repos\Smart_Device_App\Smart_Device_App\obj\Debug\net8.0\Smart_Device_App.genruntimeconfig.cache
+C:\Users\User\source\repos\Smart_Device_App\Smart_Device_App\obj\Debug\net8.0\ref\Smart_Device_App.dll

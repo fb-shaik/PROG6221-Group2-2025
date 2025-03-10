@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Enums_Struct_App\Enums_Struct_App\bin\Debug\net8.0\Enums_Struct_App.exe
+C:\Users\User\source\repos\Enums_Struct_App\Enums_Struct_App\bin\Debug\net8.0\Enums_Struct_App.deps.json
+C:\Users\User\source\repos\Enums_Struct_App\Enums_Struct_App\bin\Debug\net8.0\Enums_Struct_App.runtimeconfig.json
+C:\Users\User\source\repos\Enums_Struct_App\Enums_Struct_App\bin\Debug\net8.0\Enums_Struct_App.dll
+C:\Users\User\source\repos\Enums_Struct_App\Enums_Struct_App\bin\Debug\net8.0\Enums_Struct_App.pdb
+C:\Users\User\source\repos\Enums_Struct_App\Enums_Struct_App\obj\Debug\net8.0\Enums_Struct_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Enums_Struct_App\Enums_Struct_App\obj\Debug\net8.0\Enums_Struct_App.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Enums_Struct_App\Enums_Struct_App\obj\Debug\net8.0\Enums_Struct_App.AssemblyInfo.cs
+C:\Users\User\source\repos\Enums_Struct_App\Enums_Struct_App\obj\Debug\net8.0\Enums_Struct_App.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Enums_Struct_App\Enums_Struct_App\obj\Debug\net8.0\Enums_Struct_App.dll
+C:\Users\User\source\repos\Enums_Struct_App\Enums_Struct_App\obj\Debug\net8.0\refint\Enums_Struct_App.dll
+C:\Users\User\source\repos\Enums_Struct_App\Enums_Struct_App\obj\Debug\net8.0\Enums_Struct_App.pdb
+C:\Users\User\source\repos\Enums_Struct_App\Enums_Struct_App\obj\Debug\net8.0\Enums_Struct_App.genruntimeconfig.cache
+C:\Users\User\source\repos\Enums_Struct_App\Enums_Struct_App\obj\Debug\net8.0\ref\Enums_Struct_App.dll
