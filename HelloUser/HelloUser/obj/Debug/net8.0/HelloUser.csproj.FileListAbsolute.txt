@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\HelloUser\HelloUser\bin\Debug\net8.0\HelloUser.exe
+C:\Users\User\source\repos\HelloUser\HelloUser\bin\Debug\net8.0\HelloUser.deps.json
+C:\Users\User\source\repos\HelloUser\HelloUser\bin\Debug\net8.0\HelloUser.runtimeconfig.json
+C:\Users\User\source\repos\HelloUser\HelloUser\bin\Debug\net8.0\HelloUser.dll
+C:\Users\User\source\repos\HelloUser\HelloUser\bin\Debug\net8.0\HelloUser.pdb
+C:\Users\User\source\repos\HelloUser\HelloUser\obj\Debug\net8.0\HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HelloUser\HelloUser\obj\Debug\net8.0\HelloUser.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HelloUser\HelloUser\obj\Debug\net8.0\HelloUser.AssemblyInfo.cs
+C:\Users\User\source\repos\HelloUser\HelloUser\obj\Debug\net8.0\HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HelloUser\HelloUser\obj\Debug\net8.0\HelloUser.dll
+C:\Users\User\source\repos\HelloUser\HelloUser\obj\Debug\net8.0\refint\HelloUser.dll
+C:\Users\User\source\repos\HelloUser\HelloUser\obj\Debug\net8.0\HelloUser.pdb
+C:\Users\User\source\repos\HelloUser\HelloUser\obj\Debug\net8.0\HelloUser.genruntimeconfig.cache
+C:\Users\User\source\repos\HelloUser\HelloUser\obj\Debug\net8.0\ref\HelloUser.dll
