@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\OrderReceiptGenerator\OrderReceiptGenerator\bin\Debug\net8.0\OrderReceiptGenerator.exe
+C:\Users\User\source\repos\OrderReceiptGenerator\OrderReceiptGenerator\bin\Debug\net8.0\OrderReceiptGenerator.deps.json
+C:\Users\User\source\repos\OrderReceiptGenerator\OrderReceiptGenerator\bin\Debug\net8.0\OrderReceiptGenerator.runtimeconfig.json
+C:\Users\User\source\repos\OrderReceiptGenerator\OrderReceiptGenerator\bin\Debug\net8.0\OrderReceiptGenerator.dll
+C:\Users\User\source\repos\OrderReceiptGenerator\OrderReceiptGenerator\bin\Debug\net8.0\OrderReceiptGenerator.pdb
+C:\Users\User\source\repos\OrderReceiptGenerator\OrderReceiptGenerator\obj\Debug\net8.0\OrderReceiptGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\OrderReceiptGenerator\OrderReceiptGenerator\obj\Debug\net8.0\OrderReceiptGenerator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OrderReceiptGenerator\OrderReceiptGenerator\obj\Debug\net8.0\OrderReceiptGenerator.AssemblyInfo.cs
+C:\Users\User\source\repos\OrderReceiptGenerator\OrderReceiptGenerator\obj\Debug\net8.0\OrderReceiptGenerator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OrderReceiptGenerator\OrderReceiptGenerator\obj\Debug\net8.0\OrderReceiptGenerator.dll
+C:\Users\User\source\repos\OrderReceiptGenerator\OrderReceiptGenerator\obj\Debug\net8.0\refint\OrderReceiptGenerator.dll
+C:\Users\User\source\repos\OrderReceiptGenerator\OrderReceiptGenerator\obj\Debug\net8.0\OrderReceiptGenerator.pdb
+C:\Users\User\source\repos\OrderReceiptGenerator\OrderReceiptGenerator\obj\Debug\net8.0\OrderReceiptGenerator.genruntimeconfig.cache
+C:\Users\User\source\repos\OrderReceiptGenerator\OrderReceiptGenerator\obj\Debug\net8.0\ref\OrderReceiptGenerator.dll
