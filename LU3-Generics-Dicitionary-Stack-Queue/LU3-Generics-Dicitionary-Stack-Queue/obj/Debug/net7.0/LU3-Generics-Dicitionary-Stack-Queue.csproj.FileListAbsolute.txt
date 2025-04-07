@@ -1,0 +1,15 @@
+C:\Users\fshai\source\repos\LU3-Generics-Dicitionary-Stack-Queue\LU3-Generics-Dicitionary-Stack-Queue\bin\Debug\net7.0\LU3-Generics-Dicitionary-Stack-Queue.exe
+C:\Users\fshai\source\repos\LU3-Generics-Dicitionary-Stack-Queue\LU3-Generics-Dicitionary-Stack-Queue\bin\Debug\net7.0\LU3-Generics-Dicitionary-Stack-Queue.deps.json
+C:\Users\fshai\source\repos\LU3-Generics-Dicitionary-Stack-Queue\LU3-Generics-Dicitionary-Stack-Queue\bin\Debug\net7.0\LU3-Generics-Dicitionary-Stack-Queue.runtimeconfig.json
+C:\Users\fshai\source\repos\LU3-Generics-Dicitionary-Stack-Queue\LU3-Generics-Dicitionary-Stack-Queue\bin\Debug\net7.0\LU3-Generics-Dicitionary-Stack-Queue.dll
+C:\Users\fshai\source\repos\LU3-Generics-Dicitionary-Stack-Queue\LU3-Generics-Dicitionary-Stack-Queue\bin\Debug\net7.0\LU3-Generics-Dicitionary-Stack-Queue.pdb
+C:\Users\fshai\source\repos\LU3-Generics-Dicitionary-Stack-Queue\LU3-Generics-Dicitionary-Stack-Queue\obj\Debug\net7.0\LU3-Generics-Dicitionary-Stack-Queue.csproj.AssemblyReference.cache
+C:\Users\fshai\source\repos\LU3-Generics-Dicitionary-Stack-Queue\LU3-Generics-Dicitionary-Stack-Queue\obj\Debug\net7.0\LU3-Generics-Dicitionary-Stack-Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fshai\source\repos\LU3-Generics-Dicitionary-Stack-Queue\LU3-Generics-Dicitionary-Stack-Queue\obj\Debug\net7.0\LU3-Generics-Dicitionary-Stack-Queue.AssemblyInfoInputs.cache
+C:\Users\fshai\source\repos\LU3-Generics-Dicitionary-Stack-Queue\LU3-Generics-Dicitionary-Stack-Queue\obj\Debug\net7.0\LU3-Generics-Dicitionary-Stack-Queue.AssemblyInfo.cs
+C:\Users\fshai\source\repos\LU3-Generics-Dicitionary-Stack-Queue\LU3-Generics-Dicitionary-Stack-Queue\obj\Debug\net7.0\LU3-Generics-Dicitionary-Stack-Queue.csproj.CoreCompileInputs.cache
+C:\Users\fshai\source\repos\LU3-Generics-Dicitionary-Stack-Queue\LU3-Generics-Dicitionary-Stack-Queue\obj\Debug\net7.0\LU3-Generics-Dicitionary-Stack-Queue.dll
+C:\Users\fshai\source\repos\LU3-Generics-Dicitionary-Stack-Queue\LU3-Generics-Dicitionary-Stack-Queue\obj\Debug\net7.0\refint\LU3-Generics-Dicitionary-Stack-Queue.dll
+C:\Users\fshai\source\repos\LU3-Generics-Dicitionary-Stack-Queue\LU3-Generics-Dicitionary-Stack-Queue\obj\Debug\net7.0\LU3-Generics-Dicitionary-Stack-Queue.pdb
+C:\Users\fshai\source\repos\LU3-Generics-Dicitionary-Stack-Queue\LU3-Generics-Dicitionary-Stack-Queue\obj\Debug\net7.0\LU3-Generics-Dicitionary-Stack-Queue.genruntimeconfig.cache
+C:\Users\fshai\source\repos\LU3-Generics-Dicitionary-Stack-Queue\LU3-Generics-Dicitionary-Stack-Queue\obj\Debug\net7.0\ref\LU3-Generics-Dicitionary-Stack-Queue.dll

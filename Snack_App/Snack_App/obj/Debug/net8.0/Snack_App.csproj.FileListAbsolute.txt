@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Snack_App\Snack_App\bin\Debug\net8.0\Snack_App.exe
+C:\Users\User\source\repos\Snack_App\Snack_App\bin\Debug\net8.0\Snack_App.deps.json
+C:\Users\User\source\repos\Snack_App\Snack_App\bin\Debug\net8.0\Snack_App.runtimeconfig.json
+C:\Users\User\source\repos\Snack_App\Snack_App\bin\Debug\net8.0\Snack_App.dll
+C:\Users\User\source\repos\Snack_App\Snack_App\bin\Debug\net8.0\Snack_App.pdb
+C:\Users\User\source\repos\Snack_App\Snack_App\obj\Debug\net8.0\Snack_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Snack_App\Snack_App\obj\Debug\net8.0\Snack_App.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Snack_App\Snack_App\obj\Debug\net8.0\Snack_App.AssemblyInfo.cs
+C:\Users\User\source\repos\Snack_App\Snack_App\obj\Debug\net8.0\Snack_App.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Snack_App\Snack_App\obj\Debug\net8.0\Snack_App.dll
+C:\Users\User\source\repos\Snack_App\Snack_App\obj\Debug\net8.0\refint\Snack_App.dll
+C:\Users\User\source\repos\Snack_App\Snack_App\obj\Debug\net8.0\Snack_App.pdb
+C:\Users\User\source\repos\Snack_App\Snack_App\obj\Debug\net8.0\Snack_App.genruntimeconfig.cache
+C:\Users\User\source\repos\Snack_App\Snack_App\obj\Debug\net8.0\ref\Snack_App.dll
+C:\Users\User\source\repos\Snack_App\Snack_App\bin\Debug\net8.0\Figgle.dll
+C:\Users\User\source\repos\Snack_App\Snack_App\obj\Debug\net8.0\Snack_App.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Snack_App\Snack_App\obj\Debug\net8.0\Snack_App.csproj.Up2Date

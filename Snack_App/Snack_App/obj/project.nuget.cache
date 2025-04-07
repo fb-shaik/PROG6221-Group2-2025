@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9DYPIcdZNiU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Snack_App\\Snack_App\\Snack_App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

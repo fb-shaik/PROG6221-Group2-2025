@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LU3-Generics-Dicitionary-Stack-Queue/1.0.0": {
+        "runtime": {
+          "LU3-Generics-Dicitionary-Stack-Queue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LU3-Generics-Dicitionary-Stack-Queue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
