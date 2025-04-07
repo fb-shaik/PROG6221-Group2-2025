@@ -1,0 +1,15 @@
+C:\Users\fshai\source\repos\LU3-References\LU3-References\bin\Debug\net7.0\LU3-References.exe
+C:\Users\fshai\source\repos\LU3-References\LU3-References\bin\Debug\net7.0\LU3-References.deps.json
+C:\Users\fshai\source\repos\LU3-References\LU3-References\bin\Debug\net7.0\LU3-References.runtimeconfig.json
+C:\Users\fshai\source\repos\LU3-References\LU3-References\bin\Debug\net7.0\LU3-References.dll
+C:\Users\fshai\source\repos\LU3-References\LU3-References\bin\Debug\net7.0\LU3-References.pdb
+C:\Users\fshai\source\repos\LU3-References\LU3-References\obj\Debug\net7.0\LU3-References.csproj.AssemblyReference.cache
+C:\Users\fshai\source\repos\LU3-References\LU3-References\obj\Debug\net7.0\LU3-References.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fshai\source\repos\LU3-References\LU3-References\obj\Debug\net7.0\LU3-References.AssemblyInfoInputs.cache
+C:\Users\fshai\source\repos\LU3-References\LU3-References\obj\Debug\net7.0\LU3-References.AssemblyInfo.cs
+C:\Users\fshai\source\repos\LU3-References\LU3-References\obj\Debug\net7.0\LU3-References.csproj.CoreCompileInputs.cache
+C:\Users\fshai\source\repos\LU3-References\LU3-References\obj\Debug\net7.0\LU3-References.dll
+C:\Users\fshai\source\repos\LU3-References\LU3-References\obj\Debug\net7.0\refint\LU3-References.dll
+C:\Users\fshai\source\repos\LU3-References\LU3-References\obj\Debug\net7.0\LU3-References.pdb
+C:\Users\fshai\source\repos\LU3-References\LU3-References\obj\Debug\net7.0\LU3-References.genruntimeconfig.cache
+C:\Users\fshai\source\repos\LU3-References\LU3-References\obj\Debug\net7.0\ref\LU3-References.dll
