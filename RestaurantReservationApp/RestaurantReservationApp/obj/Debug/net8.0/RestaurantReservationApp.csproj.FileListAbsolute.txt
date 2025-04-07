@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\RestaurantReservationApp\RestaurantReservationApp\bin\Debug\net8.0\RestaurantReservationApp.exe
+C:\Users\User\source\repos\RestaurantReservationApp\RestaurantReservationApp\bin\Debug\net8.0\RestaurantReservationApp.deps.json
+C:\Users\User\source\repos\RestaurantReservationApp\RestaurantReservationApp\bin\Debug\net8.0\RestaurantReservationApp.runtimeconfig.json
+C:\Users\User\source\repos\RestaurantReservationApp\RestaurantReservationApp\bin\Debug\net8.0\RestaurantReservationApp.dll
+C:\Users\User\source\repos\RestaurantReservationApp\RestaurantReservationApp\bin\Debug\net8.0\RestaurantReservationApp.pdb
+C:\Users\User\source\repos\RestaurantReservationApp\RestaurantReservationApp\obj\Debug\net8.0\RestaurantReservationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\RestaurantReservationApp\RestaurantReservationApp\obj\Debug\net8.0\RestaurantReservationApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RestaurantReservationApp\RestaurantReservationApp\obj\Debug\net8.0\RestaurantReservationApp.AssemblyInfo.cs
+C:\Users\User\source\repos\RestaurantReservationApp\RestaurantReservationApp\obj\Debug\net8.0\RestaurantReservationApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RestaurantReservationApp\RestaurantReservationApp\obj\Debug\net8.0\RestaurantReservationApp.dll
+C:\Users\User\source\repos\RestaurantReservationApp\RestaurantReservationApp\obj\Debug\net8.0\refint\RestaurantReservationApp.dll
+C:\Users\User\source\repos\RestaurantReservationApp\RestaurantReservationApp\obj\Debug\net8.0\RestaurantReservationApp.pdb
+C:\Users\User\source\repos\RestaurantReservationApp\RestaurantReservationApp\obj\Debug\net8.0\RestaurantReservationApp.genruntimeconfig.cache
+C:\Users\User\source\repos\RestaurantReservationApp\RestaurantReservationApp\obj\Debug\net8.0\ref\RestaurantReservationApp.dll

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Interfaces_PaymentSystem_App\Interfaces_PaymentSystem_App\bin\Debug\net8.0\Interfaces_PaymentSystem_App.exe
+C:\Users\User\source\repos\Interfaces_PaymentSystem_App\Interfaces_PaymentSystem_App\bin\Debug\net8.0\Interfaces_PaymentSystem_App.deps.json
+C:\Users\User\source\repos\Interfaces_PaymentSystem_App\Interfaces_PaymentSystem_App\bin\Debug\net8.0\Interfaces_PaymentSystem_App.runtimeconfig.json
+C:\Users\User\source\repos\Interfaces_PaymentSystem_App\Interfaces_PaymentSystem_App\bin\Debug\net8.0\Interfaces_PaymentSystem_App.dll
+C:\Users\User\source\repos\Interfaces_PaymentSystem_App\Interfaces_PaymentSystem_App\bin\Debug\net8.0\Interfaces_PaymentSystem_App.pdb
+C:\Users\User\source\repos\Interfaces_PaymentSystem_App\Interfaces_PaymentSystem_App\obj\Debug\net8.0\Interfaces_PaymentSystem_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Interfaces_PaymentSystem_App\Interfaces_PaymentSystem_App\obj\Debug\net8.0\Interfaces_PaymentSystem_App.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Interfaces_PaymentSystem_App\Interfaces_PaymentSystem_App\obj\Debug\net8.0\Interfaces_PaymentSystem_App.AssemblyInfo.cs
+C:\Users\User\source\repos\Interfaces_PaymentSystem_App\Interfaces_PaymentSystem_App\obj\Debug\net8.0\Interfaces_PaymentSystem_App.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Interfaces_PaymentSystem_App\Interfaces_PaymentSystem_App\obj\Debug\net8.0\Interfaces_PaymentSystem_App.dll
+C:\Users\User\source\repos\Interfaces_PaymentSystem_App\Interfaces_PaymentSystem_App\obj\Debug\net8.0\refint\Interfaces_PaymentSystem_App.dll
+C:\Users\User\source\repos\Interfaces_PaymentSystem_App\Interfaces_PaymentSystem_App\obj\Debug\net8.0\Interfaces_PaymentSystem_App.pdb
+C:\Users\User\source\repos\Interfaces_PaymentSystem_App\Interfaces_PaymentSystem_App\obj\Debug\net8.0\Interfaces_PaymentSystem_App.genruntimeconfig.cache
+C:\Users\User\source\repos\Interfaces_PaymentSystem_App\Interfaces_PaymentSystem_App\obj\Debug\net8.0\ref\Interfaces_PaymentSystem_App.dll
