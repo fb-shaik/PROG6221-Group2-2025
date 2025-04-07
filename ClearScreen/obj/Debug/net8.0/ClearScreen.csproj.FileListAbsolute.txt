@@ -1,0 +1,14 @@
+C:\Users\fshai\source\repos\ClearScreen\bin\Debug\net8.0\ClearScreen.exe
+C:\Users\fshai\source\repos\ClearScreen\bin\Debug\net8.0\ClearScreen.deps.json
+C:\Users\fshai\source\repos\ClearScreen\bin\Debug\net8.0\ClearScreen.runtimeconfig.json
+C:\Users\fshai\source\repos\ClearScreen\bin\Debug\net8.0\ClearScreen.dll
+C:\Users\fshai\source\repos\ClearScreen\bin\Debug\net8.0\ClearScreen.pdb
+C:\Users\fshai\source\repos\ClearScreen\obj\Debug\net8.0\ClearScreen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fshai\source\repos\ClearScreen\obj\Debug\net8.0\ClearScreen.AssemblyInfoInputs.cache
+C:\Users\fshai\source\repos\ClearScreen\obj\Debug\net8.0\ClearScreen.AssemblyInfo.cs
+C:\Users\fshai\source\repos\ClearScreen\obj\Debug\net8.0\ClearScreen.csproj.CoreCompileInputs.cache
+C:\Users\fshai\source\repos\ClearScreen\obj\Debug\net8.0\ClearScreen.dll
+C:\Users\fshai\source\repos\ClearScreen\obj\Debug\net8.0\refint\ClearScreen.dll
+C:\Users\fshai\source\repos\ClearScreen\obj\Debug\net8.0\ClearScreen.pdb
+C:\Users\fshai\source\repos\ClearScreen\obj\Debug\net8.0\ClearScreen.genruntimeconfig.cache
+C:\Users\fshai\source\repos\ClearScreen\obj\Debug\net8.0\ref\ClearScreen.dll
