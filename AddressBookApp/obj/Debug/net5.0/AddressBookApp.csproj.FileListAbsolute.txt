@@ -1,0 +1,15 @@
+C:\Users\fshai\source\repos\AddressBookApp\bin\Debug\net5.0\AddressBookApp.exe
+C:\Users\fshai\source\repos\AddressBookApp\bin\Debug\net5.0\AddressBookApp.deps.json
+C:\Users\fshai\source\repos\AddressBookApp\bin\Debug\net5.0\AddressBookApp.runtimeconfig.json
+C:\Users\fshai\source\repos\AddressBookApp\bin\Debug\net5.0\AddressBookApp.runtimeconfig.dev.json
+C:\Users\fshai\source\repos\AddressBookApp\bin\Debug\net5.0\AddressBookApp.dll
+C:\Users\fshai\source\repos\AddressBookApp\bin\Debug\net5.0\AddressBookApp.pdb
+C:\Users\fshai\source\repos\AddressBookApp\obj\Debug\net5.0\AddressBookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fshai\source\repos\AddressBookApp\obj\Debug\net5.0\AddressBookApp.AssemblyInfoInputs.cache
+C:\Users\fshai\source\repos\AddressBookApp\obj\Debug\net5.0\AddressBookApp.AssemblyInfo.cs
+C:\Users\fshai\source\repos\AddressBookApp\obj\Debug\net5.0\AddressBookApp.csproj.CoreCompileInputs.cache
+C:\Users\fshai\source\repos\AddressBookApp\obj\Debug\net5.0\AddressBookApp.dll
+C:\Users\fshai\source\repos\AddressBookApp\obj\Debug\net5.0\refint\AddressBookApp.dll
+C:\Users\fshai\source\repos\AddressBookApp\obj\Debug\net5.0\AddressBookApp.pdb
+C:\Users\fshai\source\repos\AddressBookApp\obj\Debug\net5.0\AddressBookApp.genruntimeconfig.cache
+C:\Users\fshai\source\repos\AddressBookApp\obj\Debug\net5.0\ref\AddressBookApp.dll
