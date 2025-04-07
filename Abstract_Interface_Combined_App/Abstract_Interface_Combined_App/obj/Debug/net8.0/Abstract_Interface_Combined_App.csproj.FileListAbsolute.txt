@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Abstract_Interface_Combined_App\Abstract_Interface_Combined_App\bin\Debug\net8.0\Abstract_Interface_Combined_App.exe
+C:\Users\User\source\repos\Abstract_Interface_Combined_App\Abstract_Interface_Combined_App\bin\Debug\net8.0\Abstract_Interface_Combined_App.deps.json
+C:\Users\User\source\repos\Abstract_Interface_Combined_App\Abstract_Interface_Combined_App\bin\Debug\net8.0\Abstract_Interface_Combined_App.runtimeconfig.json
+C:\Users\User\source\repos\Abstract_Interface_Combined_App\Abstract_Interface_Combined_App\bin\Debug\net8.0\Abstract_Interface_Combined_App.dll
+C:\Users\User\source\repos\Abstract_Interface_Combined_App\Abstract_Interface_Combined_App\bin\Debug\net8.0\Abstract_Interface_Combined_App.pdb
+C:\Users\User\source\repos\Abstract_Interface_Combined_App\Abstract_Interface_Combined_App\obj\Debug\net8.0\Abstract_Interface_Combined_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Abstract_Interface_Combined_App\Abstract_Interface_Combined_App\obj\Debug\net8.0\Abstract_Interface_Combined_App.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Abstract_Interface_Combined_App\Abstract_Interface_Combined_App\obj\Debug\net8.0\Abstract_Interface_Combined_App.AssemblyInfo.cs
+C:\Users\User\source\repos\Abstract_Interface_Combined_App\Abstract_Interface_Combined_App\obj\Debug\net8.0\Abstract_Interface_Combined_App.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Abstract_Interface_Combined_App\Abstract_Interface_Combined_App\obj\Debug\net8.0\Abstract_Interface_Combined_App.dll
+C:\Users\User\source\repos\Abstract_Interface_Combined_App\Abstract_Interface_Combined_App\obj\Debug\net8.0\refint\Abstract_Interface_Combined_App.dll
+C:\Users\User\source\repos\Abstract_Interface_Combined_App\Abstract_Interface_Combined_App\obj\Debug\net8.0\Abstract_Interface_Combined_App.pdb
+C:\Users\User\source\repos\Abstract_Interface_Combined_App\Abstract_Interface_Combined_App\obj\Debug\net8.0\Abstract_Interface_Combined_App.genruntimeconfig.cache
+C:\Users\User\source\repos\Abstract_Interface_Combined_App\Abstract_Interface_Combined_App\obj\Debug\net8.0\ref\Abstract_Interface_Combined_App.dll
