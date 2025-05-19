@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TravelPlannerApp/1.0.0": {
+        "runtime": {
+          "TravelPlannerApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TravelPlannerApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
