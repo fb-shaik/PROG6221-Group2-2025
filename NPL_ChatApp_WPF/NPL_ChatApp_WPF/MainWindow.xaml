@@ -1,0 +1,39 @@
+﻿<Window x:Class="NPL_ChatApp_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NPL_ChatApp_WPF"
+        mc:Ignorable="d"
+        Title="NPL Chat-App Assistant" Height="450" Width="650">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        
+        <!--Input Section-->
+        <GroupBox Header="Enter Your Message" Margin="0,0,0,10">
+            <Grid Margin="10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <TextBox Name="InputBox" Height="30" Margin="0,0,10,0" VerticalAlignment="Center"/>
+                <Button Content="Analyze" Height="30" Width="100" Click="AnalyzeMessage_Click" Grid.Column="1"/>
+            </Grid>
+        </GroupBox>
+        
+        <!--Keyword List-->
+        <GroupBox Header="Extracted Keywords" Grid.Row="1" Margin="0,0,0,10">
+            <ListBox Name="KeywordList" Height="100" Margin="10"/>
+        </GroupBox>
+        
+        <!--Activity Log-->
+        <GroupBox Header="Activity Log" Grid.Row="2">
+            <ListBox Name="ActivityLogBox" Margin="10"/>
+        </GroupBox>
+    </Grid>
+</Window>

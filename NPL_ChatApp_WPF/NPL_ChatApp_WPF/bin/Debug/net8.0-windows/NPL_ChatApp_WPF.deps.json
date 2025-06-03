@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NPL_ChatApp_WPF/1.0.0": {
+        "runtime": {
+          "NPL_ChatApp_WPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NPL_ChatApp_WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
