@@ -1,0 +1,61 @@
+﻿<Window x:Class="WPF_Coffee_Shop_App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Coffee_Shop_App"
+        mc:Ignorable="d"
+        Title="Coffee Shop" Height="500" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1.2"/>
+            <ColumnDefinition Width="1.8"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.Background>
+            <ImageBrush ImageSource="/CoffeeShop.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+
+        <!-- Title -->
+
+        <Label Content="THE COFFEE BAR" 
+               Grid.Column="0" 
+               Grid.ColumnSpan="2" 
+               VerticalAlignment="Center" 
+               HorizontalAlignment="Center"
+               Background="White"
+               FontFamily="Bahnschrift" 
+               FontSize="36" 
+               FontWeight="Bold" 
+               Padding="10" 
+               Margin="0,0,-326,0"/>
+
+        <!-- Input Section -->
+        <StackPanel 
+            Grid.Row="1" 
+            Grid.Column="1" 
+            Margin="19,20,-476,0" 
+            VerticalAlignment="Top">
+            <Label Content="ITEM:" 
+                   FontFamily="Bahnschrift" FontSize="16" FontWeight="Bold"/>
+            
+            <ComboBox x:Name="cmbItem" Width="200" Margin="0,5,0,15"
+                    FontFamily="Bahnschrift" FontSize="14" IsEditable="False"/>
+
+            <Label Content="QUANTITY:" 
+                   FontFamily="Bahnschrift" FontSize="16" FontWeight="Bold"/>
+            
+            <TextBox x:Name="txtQuantity" Width="200" Margin="0,5,0,10"
+                   FontFamily="Bahnschrift" FontSize="14"/>
+        </StackPanel>
+
+
+
+    </Grid>
+</Window>

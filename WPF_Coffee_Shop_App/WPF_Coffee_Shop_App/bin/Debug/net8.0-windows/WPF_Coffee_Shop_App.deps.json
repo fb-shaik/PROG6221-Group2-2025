@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WPF_Coffee_Shop_App/1.0.0": {
+        "runtime": {
+          "WPF_Coffee_Shop_App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPF_Coffee_Shop_App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
